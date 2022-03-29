@@ -34,9 +34,6 @@ compared to suburban and urban areas.
 
 ## Closing and Recommendations
 
-There is a statement summarizing three business recommendations to the CEO for addressing 
-any disparities among the city types
-
 As mentioned earlier, urban areas have shown to be a profitable and reliable market for 
 PyBer. To gauge a better response from the other areas, the following recommendations
 are being made:
