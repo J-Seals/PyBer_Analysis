@@ -4,7 +4,7 @@
 ## Overview of Pyber Data 
 The purpose of this project is to help Pyber, a ride sharing company, determine
 which areas need more drivers and how much the average cost should be per ride. 
-The total number of drivers per area type was calculates as well total number of
+The total number of drivers per area type was calculated as well total number of
 rides given per area. Average ride fares were calculated per area type by summing
 up the cost for each ride and diviving that number by the total number of rides per
 area. This data was then visually displayed in a line graph to identify any trends
