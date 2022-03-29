@@ -17,7 +17,7 @@ or areas of improvement.
 ### Urban Areas
 Urban areas have the highest number of drivers and total rides compared to suburban areas
 and Rural Areas. In addition, these areas spend more on fares compared to suburban and rural
-areas, making the average fare rare the lowest among the three area types.
+areas, making the average fare the lowest among the three area types.
 
 ### Suburban Areas
 Suburban areas have about half the number of total rides and total drivers compared to urban
