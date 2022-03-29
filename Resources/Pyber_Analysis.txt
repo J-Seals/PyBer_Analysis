@@ -1,0 +1,43 @@
+# Pyber Data Analysis with MatPlotLib
+
+
+## Overview of Pyber Data 
+The purpose of this project is to help Pyber, a ride sharing company, determine
+which areas need more drivers and how much the average cost should be per ride. 
+The total number of drivers per area type was calculates as well total number of
+rides given per area. Average ride fares were calculated per area type by summing
+up the cost for each ride and diviving that number by the total number of rides per
+area. This data was then visually displayed in a line graph to identify any trends
+or areas of improvement.
+
+## Results
+
+![](Resources/VBA_Challenge_2017.png)
+
+### Urban Areas
+Urban areas have the highest number of drivers and total rides compared to suburban areas
+and Rural Areas. In addition, these areas spend more on fares compared to suburban and rural
+areas, making the average fare rare the lowest among the three area types.
+
+### Suburban Areas
+Suburban areas have about half the number of total rides and total drivers compared to urban
+areas, but still surpass rural areas in these categories. Similarly, the total amount of fares
+for suburban areas is half of the profit brought in by urban areas, and yet, still drastically
+more than rural areas. This leads to the average ride cost in suburban areas to be 
+noticebally higher than urban areas and slightly lower than rural areas.
+
+### Rural Areas
+Rural areas have a significantly lower number of total rides and total drivers compared to
+urban and suburban areas. These areas bring in the least amount of profit in total amount
+of fares, but have the highest average cost per ride. These areas are trailing behind when
+compared to suburban and urban areas.
+
+## School District Analysis Summary
+Changing the ninth graders scores to Nan at Thomas High School allowed for a more accurate 
+depiction and analysis of the data. The following things can be attributed to this:
+1. All Charter Schools performed better than the District Schools
+2. Charter Schools usually spent less on average per student but still performed better 
+3. Charter Schools usually have a significantly smaller student body population than District
+Schools and usually performed better
+4. Thomas High School went from being a low performing school to one of the top performing
+High Schools in the district 
